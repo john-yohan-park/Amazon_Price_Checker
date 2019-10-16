@@ -1,5 +1,5 @@
 # Amazon_Price_Checker
-Checks price of an item on Amazon.com every hour. Sends email if price drops to a desired price proint. 
+Checks price of an item on Amazon.com every hour. Sends email if the price drops to a desired amount. 
 
 Written in Python. Powered by Beautiful Soup. TLS Server Encryption Enabled.
 
