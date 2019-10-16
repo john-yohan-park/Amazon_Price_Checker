@@ -4,7 +4,6 @@ Github  john-yohan-park
 Date    10/16/2019
 
 System Requirements
-To run this program, you will need
     Name:           Mac Terminal Command to Install:
     Homebrew        /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     Python 3        brew install python
@@ -14,7 +13,6 @@ To run this program, you will need
     Firefox         brew cask install firefox
 
 Program Requirements
-To run this program, you will need to define
     Sender's email
         - Needs to be gmail with 2-step verification (visit google.com/landing/2step)
     Recipient's email
@@ -31,13 +29,13 @@ To exit, press: CTRL + C
 
 import requests
 from bs4 import BeautifulSoup
-import smtplib                  # send emails
+import smtplib
 import time
 
 sender_email = 'abc123@gmail.com'
 recipient_email = 'def456@gmail.com'
 google_app_password = 'xyz789'
-URL = 'www. ... '
+URL = 'www... '
 userAgent = {'User-Agent': 'abcd'}
 max_price = 123     # enter XXX or XXX.YY. No commas and dollar signs.
 
