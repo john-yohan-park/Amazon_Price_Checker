@@ -24,7 +24,7 @@ Program Requirements
     Max price you're willing to pay
 
 To run this program, type into the terminal: python3 amazon.py
-To exit, press: CTRL + C
+To exit, press CTRL + C
 """
 
 import requests
