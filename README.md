@@ -1,8 +1,12 @@
 # Amazon_Price_Checker
-Checks price of an item on Amazon.com every hour. Sends email if the price drops to a specified amount. 
+Checks price of an item on Amazon.com hourly
 
-Written in Python. Powered by Beautiful Soup. TLS Server Encryption Enabled. Designed to be run on a Mac.
+Sends email if the price drops to a specified amount
 
-To run this program, you will need to have installed Python 3, Requests, Beautiful Soup, Gecko Driver, and Mozilla Firefox.
+Written in Python
 
-You will need to define the sender's email(gmail with 2-step verification enabled), recipient's email, google app password, user agent, Amazon.com url of the desired item, and the max price you are willing to pay for the item.
+TLS Server Encryption Enabled
+
+System Requirements: Python 3, Requests, Beautiful Soup, Gecko Driver, Mozilla Firefox
+
+You will need to define the sender's email(gmail with 2-step verification enabled), recipient's email, google app password, user agent, Amazon.com url of the desired item, and the max price you are willing to pay for the said item.
