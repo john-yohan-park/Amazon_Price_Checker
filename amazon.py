@@ -5,7 +5,7 @@ Date    10/16/2019
 
 Introduction
     Checks hourly to see if an item from Amazon.com meets a pre-defined pricepoint
-    If so, sends an email to the user
+    If so, sends email to user
 
 System Requirements
     Name:           Command:
