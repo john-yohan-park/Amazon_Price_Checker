@@ -3,6 +3,10 @@ Name    John Park
 Github  john-yohan-park
 Date    10/16/2019
 
+Introduction
+    Checks hourly to see if an item from Amazon.com meets a pre-defined pricepoint
+    If so, sends an email to the user
+
 System Requirements
     Name:           Command:
     Homebrew        /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
